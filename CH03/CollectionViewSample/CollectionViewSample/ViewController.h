@@ -10,7 +10,7 @@
 
 @interface ViewController : UICollectionViewController
 
-@property (strong, nonatomic) NSArray * evevnts;
+@property (strong, nonatomic) NSArray * events;
 
 
 @end
